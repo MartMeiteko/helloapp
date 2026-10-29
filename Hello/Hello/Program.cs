@@ -1,6 +1,2 @@
-﻿static void greetWhite()
-{
-    Console.WriteLine("hello white");
-}
-Console.WriteLine("hello");
+Console.WriteLine("hello everyone");
 Console.ReadLine();
